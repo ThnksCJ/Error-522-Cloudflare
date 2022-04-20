@@ -10,7 +10,7 @@ I thought it would be cool to have a service that you can make it look like some
 
 It uses a query from the url like:
 ```batch
-http://127.0.0.1/cloudflare?url=cjstevenson.fuck.you
+http://127.0.0.1/cloudflare?url=cjstevenson.com
 ```
 This will then pass the url to the ejs so it can be displayed.
 
